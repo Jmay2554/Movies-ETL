@@ -1,0 +1,3 @@
+#ignore the large csvs
+Data/credits.csv
+Data/ratings.csv
